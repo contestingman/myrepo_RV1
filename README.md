@@ -3,4 +3,4 @@ Repo for R Studio
 
 This is a line from R studio.
 
-Line added fromn GitHub
+Line added from GitHub
